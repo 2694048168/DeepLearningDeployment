@@ -149,6 +149,6 @@ cython_debug/
 
 ./build/*
 ./external/*
-./bin/*
+/bin/*
 ./lib/*
-./output/*
+/output/*
