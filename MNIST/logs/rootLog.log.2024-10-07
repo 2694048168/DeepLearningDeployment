@@ -1,0 +1,6 @@
+[2024-10-07 15:37:52,239]-[rootLog][INFO]-[11552:MainProcess][24092:MainThread]-[====> Random Seed: 42]-D:\Development\GitRepository\ModelDeployment\MNIST\train.py
+[2024-10-07 15:37:52,242]-[rootLog][INFO]-[11552:MainProcess][24092:MainThread]-[====> Train the PyTorch model Start]-D:\Development\GitRepository\ModelDeployment\MNIST\train.py
+[2024-10-07 15:38:28,676]-[rootLog][INFO]-[11552:MainProcess][24092:MainThread]-[====> Train the PyTorch model End]-D:\Development\GitRepository\ModelDeployment\MNIST\train.py
+[2024-10-07 15:39:17,851]-[rootLog][INFO]-[23612:MainProcess][24256:MainThread]-[====> Random Seed: 42]-D:\Development\GitRepository\ModelDeployment\MNIST\train.py
+[2024-10-07 15:39:17,852]-[rootLog][INFO]-[23612:MainProcess][24256:MainThread]-[====> Train the PyTorch model Start]-D:\Development\GitRepository\ModelDeployment\MNIST\train.py
+[2024-10-07 15:39:54,230]-[rootLog][INFO]-[23612:MainProcess][24256:MainThread]-[====> Train the PyTorch model End]-D:\Development\GitRepository\ModelDeployment\MNIST\train.py

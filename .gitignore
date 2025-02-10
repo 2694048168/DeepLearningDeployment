@@ -151,3 +151,4 @@ cython_debug/
 ./external/*
 ./bin/*
 ./lib/*
+./output/*

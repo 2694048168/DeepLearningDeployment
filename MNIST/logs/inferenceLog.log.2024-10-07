@@ -1,0 +1,5 @@
+[2024-10-07 22:30:09,777]-[inferenceLog][INFO]-[24020:MainProcess][17248:MainThread]-[====> Loading the model from ./models/checkpoints/last_ckp.pth successfully]-D:\Development\GitRepository\ModelDeployment\MNIST\infer_tensorrt_onnx.py
+[2024-10-07 22:30:49,139]-[inferenceLog][INFO]-[22052:MainProcess][23264:MainThread]-[====> Loading the model from ./models/checkpoints/last_ckp.pth successfully]-D:\Development\GitRepository\ModelDeployment\MNIST\infer_tensorrt_onnx.py
+[2024-10-07 22:30:54,655]-[inferenceLog][INFO]-[22052:MainProcess][23264:MainThread]-[====> Build the engine to inference via TensorRT successfully]-D:\Development\GitRepository\ModelDeployment\MNIST\infer_tensorrt_onnx.py
+[2024-10-07 22:30:57,909]-[inferenceLog][INFO]-[22052:MainProcess][23264:MainThread]-[Test Case: 1]-D:\Development\GitRepository\ModelDeployment\MNIST\infer_tensorrt_onnx.py
+[2024-10-07 22:30:57,910]-[inferenceLog][INFO]-[22052:MainProcess][23264:MainThread]-[Prediction: 1]-D:\Development\GitRepository\ModelDeployment\MNIST\infer_tensorrt_onnx.py
